@@ -1,0 +1,4 @@
+# label:color_rgb:parts:actions
+background:0,0,0::
+cracks:255,0,0::
+scratches:0,255,0::
